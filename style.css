@@ -257,7 +257,7 @@ i{
     display: flex;
     margin-top: 30px;
     margin-left: 5px;
-    gap: 32px;
+    gap: 20px;
 }
 .social-icons .icon{
     display: flex;
@@ -288,11 +288,11 @@ i{
     }
     75% {
         border: 2px solid #8c260c;
-        left: 72px;
+        left: 64px;
     }
     100% {
         border: 2px solid #27b408;
-        left: 145px;
+        left: 127px;
     }
     
 }
